@@ -1,0 +1,12 @@
+{
+    "name": "svro/helloworld",
+    "description": "Say hello",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stijn Van Rompaey",
+            "email": "stijn.vanrompaey@ritacollege.be"
+        }
+    ],
+    "require": {}
+}
